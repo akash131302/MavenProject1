@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-12T20:57:57 IST" name="Default suite" finished-at="2024-09-12T21:09:08 IST" duration-ms="671495">
+    <groups>
+    </groups>
+    <test started-at="2024-09-12T20:57:57 IST" name="Default test" finished-at="2024-09-12T21:09:08 IST" duration-ms="671495">
+      <class name="dataProvider.DataPro2">
+        <test-method signature="Search(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.DataPro2@6ae5aa72]" started-at="2024-09-12T20:57:57 IST" name="Search" data-provider="abc" finished-at="2024-09-12T21:07:14 IST" duration-ms="557433" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Barclays]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kharadi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="Search(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.DataPro2@6ae5aa72]" started-at="2024-09-12T21:07:14 IST" name="Search" data-provider="abc" finished-at="2024-09-12T21:07:25 IST" duration-ms="10814" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EON IT]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KHARDI]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="Search(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.DataPro2@6ae5aa72]" started-at="2024-09-12T21:07:25 IST" name="Search" data-provider="abc" finished-at="2024-09-12T21:07:33 IST" duration-ms="8095" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SENWELL]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KHARDI]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="Search(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.DataPro2@6ae5aa72]" started-at="2024-09-12T21:07:33 IST" name="Search" data-provider="abc" finished-at="2024-09-12T21:07:43 IST" duration-ms="9747" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sagitech]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vimannagar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="Search(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.DataPro2@6ae5aa72]" started-at="2024-09-12T21:07:43 IST" name="Search" data-provider="abc" finished-at="2024-09-12T21:07:53 IST" duration-ms="10033" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cybage]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kalyaniNagar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="Search(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.DataPro2@6ae5aa72]" started-at="2024-09-12T21:07:53 IST" name="Search" data-provider="abc" finished-at="2024-09-12T21:08:11 IST" duration-ms="17883" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Barclays]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kharadi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="Search(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.DataPro2@6ae5aa72]" started-at="2024-09-12T21:08:11 IST" name="Search" data-provider="abc" finished-at="2024-09-12T21:08:26 IST" duration-ms="15187" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EON IT]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KHARDI]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="Search(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.DataPro2@6ae5aa72]" started-at="2024-09-12T21:08:26 IST" name="Search" data-provider="abc" finished-at="2024-09-12T21:08:44 IST" duration-ms="17659" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SENWELL]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KHARDI]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="Search(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.DataPro2@6ae5aa72]" started-at="2024-09-12T21:08:44 IST" name="Search" data-provider="abc" finished-at="2024-09-12T21:09:00 IST" duration-ms="16761" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sagitech]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vimannagar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="Search(java.lang.String,java.lang.String)[pri:0, instance:dataProvider.DataPro2@6ae5aa72]" started-at="2024-09-12T21:09:00 IST" name="Search" data-provider="abc" finished-at="2024-09-12T21:09:08 IST" duration-ms="7793" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cybage]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kalyaniNagar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+      </class> <!-- dataProvider.DataPro2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
